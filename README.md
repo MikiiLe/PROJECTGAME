@@ -1,5 +1,5 @@
 # PROJECTGAME
 hledání min/pokemon gameboy(firered, leafgreen, emerald)
-#Jazyku
+# Jazyku
 html, ccs, php, js
 nevím ještě
